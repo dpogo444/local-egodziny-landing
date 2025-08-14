@@ -1,0 +1,588 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&family=Maven+Pro:wght@400..900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Cabin", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 64;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 42px;
+}
+
+h4 {
+  font-size: 26px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+
+p {
+  font-weight: 300;
+}
+
+button {
+  box-shadow: 0px 7px 23px -1px rgba(0, 0, 0, 0.25)
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+
+
+/* MENU NAVBAR */
+.menubar {
+  background-color: #27272B;
+  -webkit-box-shadow: 0px 4px 4px 0px rgba(115, 115, 115, 1);
+  -moz-box-shadow: 0px 4px 4px 0px rgba(115, 115, 115, 1);
+  box-shadow: 0px 4px 4px 0px rgb(150, 150, 150);
+  overflow: hidden;
+  justify-content: stretch;
+}
+
+.button-default {
+  background-color: #FAC141;
+  color: #262A33;
+  border: none;
+  border-radius: 10px;
+  width: 180px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+/** PROGRESS BAR **/
+.progress-bar {
+  background-color: #2d6ff4;
+  height: 4px;
+  position: fixed;
+  top: 80px;
+  z-index: 1;
+}
+
+
+
+/** HERO SECTION **/
+.hero {
+  background-color: #ffffff;
+  padding-top: 80px;
+  height: 90vh;
+}
+
+.outline {
+  border: 2px solid #262A33;
+  font-weight: 600;
+  width: 180px;
+  border-radius: 10px;
+}
+
+
+
+/** ANALYTICS SECTION **/
+.analytics {
+  height: 90vh;
+  background-color: #27272B;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+.analytics .col {
+  padding: 0px 80px;
+}
+
+
+
+/** REVIEWS SECTION **/
+.reviews {
+  height: 60vh;
+  align-content: center;
+}
+
+.reviewers-avatar {
+  width: 80px;
+}
+
+
+
+/** PARTNERS SECTION **/
+.partners-slider {
+  background-color: #EDF3FF;
+  padding: 0px;
+  margin-top: 30px;
+}
+
+.partners-slide {
+  width: 400px !important;
+}
+
+
+
+/** FUNCTIONALITY SECTION **/
+.dot {
+  height: 25px;
+  width: 25px;
+  background-color: #2d6ff4;
+  border-radius: 50%;
+  border: 3px solid black;
+  display: inline-block;
+}
+
+.vl {
+  border-left: 5px dashed #262A33;
+  height: 90%;
+  margin-left: 58px;
+}
+
+
+
+/** PRICING SECTION **/
+.offer {
+  background-color: #27272B;
+  color: #ffffff;
+  height: 80vh;
+}
+
+.pricing-header {
+  color: #FAC141;
+  text-align: center;
+  font-weight: bold;
+}
+
+.pricing-card {
+  border: 4px solid #FAC141;
+  border-radius: 30px;
+  padding: 14px;
+  background-color: transparent;
+  color: #ffffff;
+}
+
+
+
+/** FAQ SECTION **/
+.accordion-item {
+  border: none;
+}
+
+.accordion-item button {
+  box-shadow: none;
+}
+
+.accordion-button::after,
+.accordion-button:not(.collapsed)::after {
+  content: "";
+  background-image: none;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #ffffff;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+}
+
+.faq-icon {
+  color: #407EF9;
+  font-size: 36px;
+  transition: transform 0.3s ease;
+}
+
+
+
+/** CTA SECTION **/
+
+
+
+/** FOOTER **/
+footer {
+  background-color: #27272B;
+  color: #ffffff;
+  bottom: 0;
+  font-weight: 300;
+}
+
+footer a {
+  font-weight: 300;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: center;
+  padding: 60px 40px 20px;
+}
+
+.footer-row {
+  height: 40px;
+}
+
+
+
+/* UPSS - 404 */
+.not-ready {
+  background-color: #ffffff;
+  padding-top: 60px;
+}
+
+.blue-text {
+  color: #407EF9;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+/* BLOG */
+.blog-main-page {
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 80vh;
+}
+
+.blog-banner {
+  background-color: rgba(64, 126, 249, 0.3);
+  padding: 60px 20%;
+  font-family: "Maven Pro", sans-serif;
+}
+
+.blog-banner .blog-title {
+  margin-bottom: 10px;
+}
+
+.login-input {
+  margin: 10px 0;
+  border-radius: 16px;
+  border: 1px solid #656565;
+  padding: 4px 8px;
+  width: 240px;
+}
+
+.blog-cards {
+  margin: 60px auto;
+  width: 60%;
+}
+
+.blog-card {
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  font-family: Maven Pro, sans-serif;
+  display: flex;
+  gap: 32px;
+}
+
+.blog-card-color-container {
+  flex-shrink: 0;
+}
+
+.blog-card-title {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+}
+
+.blog-card-meta {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.blog-card-categories {
+  margin-bottom: 0.5rem;
+}
+
+.blog-card-content-preview {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.blog-post-edit input {
+  border-radius: 8px;
+  border: 1px solid #656565;
+  padding: 4px 8px;
+  width: 100%;
+}
+
+.blog-post-edit textarea {
+  border-radius: 8px;
+  border: 1px solid #656565;
+  padding: 4px 8px;
+  width: 100%;
+}
+
+.blog-buttons {
+  display: flex;
+  margin: 20px 0;
+  gap: 20px;
+}
+
+.blog-buttons-not-logged {
+  display: flex;
+  margin: 20px 0;
+  justify-content: space-between;
+}
+
+.blog-buttons-not-logged button {
+  height: 36px;
+}
+
+.blog-page {
+  padding: 0 !important;
+}
+
+.blog-top-section {
+  padding: 60px 15%;
+}
+
+.blog-content {
+  margin: 0px auto;
+  width: 70%;
+  background-color: #FBFBFB;
+  padding: 40px 80px;
+}
+
+.blog-content h1 {
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 36px;
+}
+
+.blog-content h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.blog-content h3 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.blog-content h4 {
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.blog-content h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.blog-content p {
+  font-size: 16px;
+  font-weight: regular;
+}
+
+.blog-description {
+  font-weight: 600;
+}
+
+/* MOBILE VIEW */
+@media screen and (max-width: 900px) {
+
+  /** MOBILE FONTS **/
+
+  h1 {
+    font-size: 36px;
+  }
+
+  h2 {
+    font-size: 60px;
+  }
+
+  h3 {
+    font-size: 37px;
+  }
+
+  h4 {
+    font-size: 23px;
+  }
+
+  h5 {
+    font-size: 14px;
+  }
+
+  h6 {
+    font-size: 9px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+
+
+
+  /** MOBILE MENUBAR SECTION **/
+  .navbar-brand img {
+    width: 180px;
+  }
+
+  .navbar-toggler {
+    border: none;
+  }
+
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24"><path fill="white" fill-rule="evenodd" d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>');
+  }
+
+  .progress-bar {
+    top: unset;
+  }
+
+
+  /** MOBILE HERO SECTION **/
+  .hero {
+    padding: 50px 20px 100px;
+    height: 100%;
+  }
+
+  .hero .btn {
+    width: 160px;
+    height: auto;
+  }
+
+
+
+  /** MOBILE ANALYTICS SECTION **/
+  .analytics {
+    height: auto;
+  }
+
+  .analytics .col {
+    padding: 40px;
+  }
+
+
+
+  /** MOBILE REVIEWS SECTION **/
+  .reviews {
+    height: unset;
+    padding: 50px 10px 100px;
+  }
+
+
+  /** MOBILE PARTNERS SECTION **/
+  .partners-slider {
+    margin-bottom: 50px;
+  }
+
+  img {
+    width: 200px;
+  }
+
+
+  /** MOBILE FUNCTIONALITY SECTION **/
+  .functionality {
+    margin-bottom: 50px;
+  }
+
+
+  /** MOBILE PRICING SECTION **/
+  .offer {
+    height: unset;
+  }
+
+
+  /** MOBILE FAQ SECTION **/
+  .accordion-button {
+    padding: 10px 0px;
+    display: block;
+  }
+
+
+  /** MOBILE CTA SECTION **/
+  .cta .row {
+    flex-direction: column-reverse;
+  }
+
+
+
+  /** MOBILE FOOTER SECTION **/
+  footer h5 {
+    font-weight: bold;
+  }
+
+  .footer-container {
+    padding: 10px;
+  }
+
+  .footer-row {
+    margin: 10px 0px;
+  }
+
+  .footer-email {
+    float: inline-start;
+  }
+
+  /* BLOG */
+  .blog-banner {
+    padding: 60px 10%;
+  }
+
+  .blog-cards {
+    width: 90%;
+    margin: 20px auto;
+  }
+
+  .blog-card {
+    flex-direction: column;
+    gap: 8px;
+    width: 100%;
+  }
+
+  .blog-card-color-container {
+    width: 100% !important;
+    height: 180px !important; 
+  }
+
+  .blog-top-section h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+  .blog-content {
+    width: 100%;
+    padding: 20px 36px;
+  }
+
+  .blog-content img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+  }
+
+
+}
