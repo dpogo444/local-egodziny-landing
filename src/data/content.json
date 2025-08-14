@@ -1,0 +1,167 @@
+{
+  "navbar": {
+    "functions": "Funkcje",
+    "pricing": "Cennik",
+    "faq": "FAQ",
+    "login": "Zaloguj się",
+    "blog": "Blog"
+  },
+  "hero": {
+    "heading": "Rewolucja AI w agencjach pracy tymczasowej",
+    "p1": "Niwelujemy manualne, powtarzalne czynności jednocześnie pozwalając zachować kontrolę i precyzję w zarządzaniu czasem pracy pracowników.",
+    "p2": "Pozwalamy <span class='bold'>na żywo</span> weryfikować obecności i spóźnienia z każdego miejsca na świecie, bez konieczności fizycznego stawienia się kierownika u pracodawcy użytkownika.",
+    "p3": "Planujemy grafik pracy dla <span class='bold'>kilkuset osób</span> w kilka kliknięć!",
+    "button1": "Wypróbuj",
+    "button2": "Sprawdź system"
+  },
+  "analytics": {
+    "col1": {
+      "percent": "60%",
+      "heading": "Mniej czasu na naliczaniu wynagrodzeń",
+      "p1": "Nie ma potrzeby przepisywać nadesłanych kart z godzinami pracy pracowników od kontrahentów. Wszystkie godziny pracowników są w systemie 24/7. Na koniec miesiąca pobierz raport do PDF lub Excela i gotowe!"
+    },
+    "col2": {
+      "percent": "35%",
+      "heading": "Bardziej efektywne zarządzanie pracownikami",
+      "p1": "Sprawdzaj, ile pracowników aktualnie pracuje, kto się spóźnił, a kto nie pojawił się w pracy. Kierownik nie musi już już sam tego sprawdzać u pracodawcy użytkownika. Wystarczy zalogować się do systemu i wszystko wiadomo! Zaplanuj grafik dla kilkuset osób kilkoma kliknięciami!"
+    },
+    "col3": {
+      "percent": "80%",
+      "heading": "Sprawniejsze rozliczenia z kontrahentami",
+      "p1": "Wyślij raport zawierający rzetelnie przepracowane godziny do swojego kontrahenta. Szybko znajdź w rozbieżności w godzinach nadesłanych od klienta w stosunku do tych, które zostały rzeczywiście przepracowane."
+    }
+  },
+  "reviews": {
+    "col1": {
+      "name": "Maciej",
+      "position": "Prezes Zarządu",
+      "company": "Verisnet Sp. z o.o.",
+      "text": "Wprowadzenie systemu pozwoliło na <span class='bold'>zaoszczędzenie czasu</span> bo nie są już zbierane karty pracy w formie papierowej, potem przepisywane, analizowane i przekazywane do naliczeń."
+    },
+    "col2": {
+      "name": "Piotr",
+      "position": "Prezes Zarządu",
+      "company": "Petrostal Sp. z o.o.",
+      "text": "Oszczędność czasu, <span class='bold'>szybka weryfikacji obecności i przepracowanych godzin</span>. Niezbędne narzędzie do realizacji wymagających projektów w naszej firmie!"
+    }
+  },
+  "partners": {
+    "title": "Zaufali nam",
+    "images": []
+  },
+  "functionality": {
+    "title": "Jak działa system?",
+    "list": [
+      {
+        "title": "Zaplanuj grafik",
+        "image": "/images/img1.png",
+        "p1": "Dodaj czas pracy swoich pracowników u każdego z klientów. Możesz przypisać pracowników do jednej zmiany.  Planuj grafik z dowolnym wyprzedzeniem.",
+        "p2": "Chcesz “wgrać” grafik czasu pracy dla kilkudziesięciu pracowników, który został nadesłany przez Twojego klienta? Daj znam znać i postaramy się, aby nasza <strong>sztuczna inteligencja</strong> dodała grafik czasu pracy za Ciebie!"
+      },
+      {
+        "title": "Wyznacz obszar pracy na mapie",
+        "image": "/images/img2.png",
+        "p1": "Wyznacz na mapie miejsce lub zakład pracy Twojego klienta, u którego pracują Twoi pracownicy. W tym obszarze pracownicy mogą rozpocząć rejestrowanie swojego czasu pracy, dlatego masz <strong>100% pewność</strong>, kto stawił się na czas u pracodawcy użytkownika, a kto spóźnił.",
+        "p2": ""
+      },
+      {
+        "title": "Pracownik rozpoczyna i kończy pracę w aplikacji",
+        "image": "/images/img3.png",
+        "p1": "Pracownik rozpoczynając dzień pracy loguje się do aplikacji na swoim telefonie. W momencie rozpoczęcia i zakończenia pracy pobiera się <strong>lokalizacja GPS</strong>. Kierownik, lider i kadrowe mogą w czasie rzeczywistym sprawdzić kto z pracowników stawił się na swojej zmianie.",
+        "p2": ""
+      },
+      {
+        "title": "Weryfikuj nieobecności i spóźnienia",
+        "image": "/images/img4.png",
+        "p1": "Jest początek dnia i nie wiesz, kto z pracowników stawił się w miejscu pracy?",
+        "p2": "Sprawdź na żywo kto i gdzie rozpoczął pracę. Weryfikuj spóźnienia i przedwczesne opuszczenie miejsca pracy. <br /><br /><strong>Wyprzedź swojego klienta dzięki systemowi eGodziny.</strong><br /> Dzięki nam będziesz w stanie zareagować szybciej i zorganizować zastępstwo, zanim otrzymasz telefon z pretensjami!"
+      },
+      {
+        "title": "Automatyczne podsumowanie",
+        "image": "/images/img5.png",
+        "p1": "Kadrowe w każdym momencie mogą dokonać naliczeń pensji na podstawie czasu pracy przepracowanego przez pracowników.",
+        "p2": "Podaruj działowi Kadr i Administracji narzędzie, które <strong>zaoszczędza 4 roboczo dni w miesiącu</strong> na procesie zbierania, przepisywania i analizowania godzin nadesłanych przez klientów."
+      },
+      {
+        "title": "Gotowy raport",
+        "image": "/images/img6.png",
+        "p1": "Exportuj dane z danego miesiąca do PDF oraz Excela. Dokonuj naliczeń pensji, podatków i rozliczeń dla klientów dzięki szybkiemu dostępowi do wszystkich danych z systemu.",
+        "p2": "Możesz też wysłać raport do klienta w celu akceptacji przepracowanego czasu pracy. Masz <strong>100% pewność</strong>, że Twoi pracownicy faktycznie przepracowali tyle godzin, ile znajduje się w systemie, co jest niezwykle pomocne w przypadku znajdywania rozbieżności z godzinówkami przesłanymi od klienta."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Przejrzysty cennik",
+    "p1": "Każdemu oferujemy 30 dniowy, darmowy dostęp do systemu. Podczas okresu próbnego posiadasz dostęp do wszystkich funkcjonalności, aby sprawdzić, czy nasze narzędzie sprawdzi się w Twojej firmie.",
+    "p2": "Po zakończeniu okresu próbnego płacisz tylko tyle, ile korzystasz z systemu. Subskrypcja miesięczna składa się z opłaty za zużycie w wysokości 2 groszy za zarejestrowaną godzinę pracy oraz miesięcznej stawki bazowej. Wysokość miesięcznej stawki bazowej jest określona dla każdej agencji pracy indywidualnie.",
+    "p3": "Skontaktuj się z nami!",
+    "button": "Wypróbuj",
+    "recommend": {
+      "title": "POLECANY",
+      "subtitle": "Plan miesięczny",
+      "price": "2 gr",
+      "p1": "za przepracowaną godzinę pracy",
+      "p2": "+ miesięczna opłata bazowa"
+    },
+    "trial": {
+      "title": "",
+      "subtitle": "Plan próbny",
+      "price": "30",
+      "text": "dni za darmo"
+    }
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "questions": [
+      {
+        "question": "Co jeśli pracownik nie posiada lub zapomniał telefonu?",
+        "answer": "Można dodać każdemu pracownikowi pracę ręcznie, jeśli któryś z pracowników zapomniał telefonu do pracy. Niestety nie ma wtedy możliwości weryfikacji lokalizacji i długości przepracowanego czasu na żywo."
+      },
+      {
+        "question": "Czy aplikacja jest zgodna z RODO?",
+        "answer": "Tak, jesteśmy w pełni zgodni z RODO. Pomagamy również wdrożyć system w Twojej firmie, dzieląc się naszą wiedzą na temat klauzul i obowiązków spoczywających na pracodawcy. Naszym wspólnym celem jest to, aby wszyscy Twoi pracownicy korzystali z systemu."
+      },
+      {
+        "question": "Jakie języki obsługuje aplikacje?",
+        "answer": "Aplikacja obecnie działa w języku polskim, ukraińskim i angielskim. Na zapotrzebowanie Twojej firmy jesteśmy w stanie przetłumaczyć ją na dowolny język, w zależności od tego skąd pochodzą Twoi pracownicy."
+      },
+      {
+        "question": "Czy system obciąża baterię w telefonie?",
+        "answer": "Nie, nasza aplikacja nie jest specjalnie obciążająca dla baterii w telefonie. W większości firm pobieramy lokalizację na początku i końcu dnia pracy, dzięki czemu nie nadwyrężamy baterii."
+      },
+      {
+        "question": "Czy system spełnia obowiązek Rejestrowania Czasu Pracy z przypadku kontroli z Państwowej Inspekcji Pracy?",
+        "answer": "Tak, nasz system spełnia obowiązek Rejestrowania Czasu Pracy i można użyć np. raportu z systemu na wypadek kontroli z Państwowej Inspekcji Pracy. Co więcej, każdego miesiąca pracownicy zatwierdzają swoje godziny w aplikacji, co jest równoznaczne z fizycznym podpisem na papierowej karcie czasu pracy. Przypominamy, że brak prowadzenia ewidencji czasu pracy może skutkować karami dla pracodawcy aż do 30 000 zł."
+      },
+      {
+        "question": "Czy moje dane lub moich pracowników są gdzieś udostępniane?",
+        "answer": "Nie, nikomu nie udostępniamy, ani nie sprzedajemy żadnych danych dotyczących naszych klientów oraz ich pracowników i kontrahentów."
+      },
+      {
+        "question": "Czy możliwe jest dopasowanie raportów np. w Excelu do naszych wewnętrznych naliczeń pensji?",
+        "answer": "Tak, możemy dopasować system do Twoich potrzeb, aby zawrzeć np. takie formuły w Excelu do naliczania pensji, jakich potrzebujesz. Na podstawie danych z systemu jesteśmy w stanie stworzyć dowolny raport na Twoje zamówienie."
+      },
+      {
+        "question": "Czy pracownik ma możliwość zobaczyć swój grafik, aby wiedzieć w jakie dni pracuje?",
+        "answer": "Tak, pracownik w aplikacji ma dostęp do swojego grafiku. Posiada również możliwość zgłoszenia nieobecności, jeśli wie, że któregoś dnia nie zjawi się w pracy."
+      }
+    ]
+  },
+  "cta": {
+    "title": "DOŁĄCZ DO NAJLEPSZYCH",
+    "p1": "Skorzystaj z systemu za darmo przez 30 dni! Sprawdź sam, ile czasu jesteście w stanie zaoszczędzić.",
+    "p2": "Bez podawania karty płatniczej, bez zobowiązań.",
+    "button": "Wypróbuj"
+  },
+  "footer": {
+    "functions": "Funkcje",
+    "pricing": "Cennik",
+    "howItWorks": "Jak działa system?",
+    "aboutUs": "O nas",
+    "privacyPolicy": "Polityka prywatności",
+    "contact": "Kontakt",
+    "email": "kontakt@egodziny.pl",
+    "phone": "+48 515 800 125",
+    "copyright": "2025 © eGodziny"
+  }
+}
