@@ -1,0 +1,181 @@
+{
+  "navbar": {
+    "functions": "Funkcje",
+    "pricing": "Cennik",
+    "faq": "FAQ",
+    "login": "Zaloguj się",
+    "blog": "Blog"
+  },
+  "hero": {
+    "heading": "Zarządzaj zdalnie setkami pracowników",
+    "p1": "System i aplikacja do zarządzania personelem w ",
+    "p2": "pracy tymczasowej i outsourcingu.",
+    "button1": "Wypróbuj",
+    "button2": "Poznaj system",
+    "button_info1":{
+      "icon": "update",
+      "text": "Rejestracja czasu pracy"
+    },
+    "button_info2":{
+      "icon": "calendar_month",
+      "text": "Grafik pracy"
+    },
+    "button_info3":{
+      "icon": "add_location_alt",
+      "text": "Lokalizacja GPS"
+    },
+    "button_info4":{
+      "icon": "edgesensor_high",
+      "text": "Aplikacja na telefon"
+    },
+    "button_info5":{
+      "icon": "3p",
+      "text": "Chat grupowy"
+    },
+    "button_info6":{
+      "icon": "edit_document",
+      "text": "Podpisywanie dokumentów"
+    }
+  },
+  "analytics": {
+    "col1": {
+      "percent": "100%",
+      "heading": "Mniej papierowych kart czasu pracy",
+      "p1": "Koniec z przepisywaniem papierowych list obecności",
+      "p2": "Automatyczne zliczanie wszystkich godzin pracy - z dokładnością do minuty",
+      "p3": "Dostęp do danych w systemie 24/7 - bez proszenia o skany i zdjęcia"
+    },
+    "col2": {
+      "percent": "45%",
+      "heading": "Bardziej wydajni koordynatorzy",
+      "p1": "Zdalna weryfikacja obecności w czasie rzeczywistym",
+      "p2": "Monitorowanie spóźnień i absencji",
+      "p3": "Bez konieczności bycia na miejscu"
+    },
+    "col3": {
+      "percent": "70%",
+      "heading": "Szybciej przygotowane rozliczenia",
+      "p1": "Import do systemów kadrowo-płacowych",
+      "p2": "Koniec rozbieżności przy naliczaniu wynagrodzeń i rozliczaniu klientów",
+      "p3": "Zamykasz miesiąc szybciej - bez czekania i zbierania danych z różnych źródeł"
+    }
+  },
+  "reviews": {
+    "col1": {
+      "name": "Maciej",
+      "position": "Prezes Zarządu",
+      "company": "Verisnet Sp. z o.o.",
+      "text": "Wprowadzenie systemu pozwoliło na <span class='bold'>zaoszczędzenie czasu</span>, bo nie są już zbierane karty pracy w formie papierowej, potem przepisywane, analizowane i przekazywane do naliczeń."
+    },
+    "col2": {
+      "name": "Piotr",
+      "position": "Prezes Zarządu",
+      "company": "Petrostal Sp. z o.o.",
+      "text": "Oszczędność czasu, <span class='bold'>szybka weryfikacji obecności i przepracowanych godzin</span>. Niezbędne narzędzie do realizacji wymagających projektów w naszej firmie!"
+    }
+  },
+  "partners": {
+    "title": "Zaufali nam",
+    "images": []
+  },
+  "functionality": {
+    "title": "Jak działa system?",
+    "list": [
+      {
+        "title": "Wyznacz obszar pracy na mapie",
+        "p1": "Dzięki temu masz pewność, że pracownicy nie rozpoczną pracy poza wyznaczonym obszarem.",
+        "p2": "",
+        "idx": 1
+      },
+      {
+        "title": "Zaplanuj grafik",
+        "p1": "Dodaj grafik pracy dla każdego klienta. Nawet jeśli go zabraknie, pracownicy i tak mogą rejestrować czas pracy bez przeszkód.",
+        "p2": "",
+        "idx": 2
+      },
+      {
+        "title": "Pracownik rozpoczyna i kończy pracę w aplikacji",
+        "p1": "System weryfikuje <span class='bold'>lokalizację GPS</span> przy rozpoczęciu i zakończeniu pracy. Koordynator widzi obecność na żywo, a czas pracy jest rejestrowany co do minuty.",
+        "p2": "",
+        "idx": 3
+      },
+      {
+        "title": "Weryfikuj nieobecności i spóźnienia",
+        "p1": "<span class='bold'>Wyprzedź swojego klienta dzięki systemowi eGodziny.</span>",
+        "p2": "Dzięki nam będziesz w stanie zareagować szybciej i zorganizować zastępstwo, zanim otrzymasz telefon od klienta!",
+        "idx": 4
+      },
+      {
+        "title": "Automatyczne podsumowanie, gotowy raport",
+        "p1":  "Podaruj działowi Kadr i Administracji narzędzie, które <span class='bold'>zaoszczędza 4 dni pracy w miesiącu</span> na procesie zbierania, przepisywania i analizowania godzin.",
+        "p2": "Wszystkie dane z systemu możesz wyeksportować do PDF oraz Excela, dzięki czemu błyskawicznie naliczysz pensje i rozliczysz kontrahentów.",
+        "idx": 5
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Dopasowany cennik",
+    "p1": "Każdemu oferujemy 14 dniowy, darmowy dostęp do systemu. Podczas okresu próbnego posiadasz dostęp do wszystkich funkcjonalności, aby sprawdzić, czy nasze narzędzie sprawdzi się w Twojej firmie.",
+    "p2": "Następnie proponujemy subskrypcję miesięczną lub roczną, której cena jest uzależniona od ilości pracowników w Twojej firmie.",
+    "header_workers": "Wybierz liczbę pracowników",
+    "button": "Oblicz"
+  },
+  "faq": {
+    "title": "Często zadawane pytania",
+    "questions": [
+      {
+        "question": "Co jeśli pracownik nie posiada lub zapomniał telefonu?",
+        "answer": "Jeśli pracownik nie ma telefonu, koordynator może wprowadzić jego czas pracy z komputera. To prosty sposób na uzupełnienie danych, gdy rejestracja w aplikacji nie jest możliwa."
+      },
+      {
+        "question": "Czy system eGodziny jest zgodny z RODO?",
+        "answer": "Tak, system jest w pełni zgodny z RODO. Dane są przechowywane na serwerach w Unii Europejskiej, a sposób działania aplikacji został zweryfikowany pod kątem obowiązujących przepisów. Ponadto pomagamy również wdrożyć system w Twojej firmie, dzieląc się naszą wiedzą na temat klauzul i obowiązków spoczywających na pracodawcy."
+      },
+      {
+        "question": "Jakie języki obsługuje aplikacja?",
+        "answer": "Aplikacja obsługuje obecnie trzy języki: polski, ukraiński i angielski. Jeśli Twoi pracownicy posługują się innym językiem, możemy dodać go do systemu w odpowiedzi na potrzeby Twojej firmy."
+      },
+      {
+        "question": "Czy system obciąża baterię w telefonie?",
+        "answer": "Nie, aplikacja nie jest obciążająca dla baterii. Lokalizacja jest pobierana tylko przy rozpoczęciu i zakończeniu pracy, co minimalizuje wpływ na zużycie energii."
+      },
+      {
+        "question": "Co w przypadku kontroli z urzędu lub państwowej Inspekcji Pracy?",
+        "answer": "W przypadku kontroli wszystkie dane dotyczące czasu pracy są dostępne w systemie i mogą być łatwo przedstawione w formie raportu. Pracownicy zatwierdzają swoje godziny w aplikacji, co pełni tę samą funkcję, co podpis na papierowej karcie czasu pracy. Z doświadczenia wiemy, że taka forma ewidencji jest czytelna i dobrze oceniana przez organy kontroli."
+      },
+      {
+        "question": "Czy moje dane lub dane moich pracowników są gdzieś udostępniane?",
+        "answer": "Nie, nikomu nie udostępniamy, ani nie sprzedajemy żadnych danych dotyczących naszych klientów, ich pracowników czy kontrahentów."
+      },
+      {
+        "question": "Czy możliwe jest dopasowanie raportów do naszych wewnętrznych potrzeb?",
+        "answer": "Tak, raporty mogą zostać dopasowane do sposobu rozliczeń w Twojej firmie. Możemy uwzględnić konkretne wymagania i przygotować zestawienia w odpowiednim formacie."
+      },
+      {
+        "question": "Czy pracownik ma możliwość zobaczyć swój grafik, aby sprawdzić nadchodzące zmiany?",
+        "answer": "Tak, pracownik ma w aplikacji dostęp do swojego grafiku. Dostaje też powiadomienia za każdym razem, gdy jego grafik został edytowany. Co więcej, może też zgłosić nieobecność, jeśli wie, że nie pojawi się w pracy danego dnia."
+      },
+      {
+        "question": "Co w przypadku, gdy pracownik rozpocznie pracę w aplikacji przed planowaną godziną rozpoczęcia pracy?",
+        "answer": "W takim przypadku system zlicza tylko te godziny, które zostały przepracowane w ramach zaplanowanego grafiku. Czas przed i po zaplanowanej zmianie nie jest wliczany do przepracowanych godzin."
+      }
+    ]
+  },
+  "cta": {
+    "title": "DOŁĄCZ DO NAJLEPSZYCH",
+    "p1": "Skorzystaj z systemu za darmo przez 14 dni! Sprawdź sam, ile czasu jesteście w stanie zaoszczędzić.",
+    "p2": "Bez podawania karty płatniczej, bez zobowiązań.",
+    "button": "Wypróbuj"
+  },
+  "footer": {
+    "functions": "Funkcje",
+    "pricing": "Cennik",
+    "howItWorks": "Jak działa system?",
+    "aboutUs": "O nas",
+    "privacyPolicy": "Polityka prywatności",
+    "contact": "Kontakt",
+    "email": "kontakt@egodziny.pl",
+    "phone": "+48 515 800 125",
+    "copyright": "2025 © eGodziny"
+  }
+}
